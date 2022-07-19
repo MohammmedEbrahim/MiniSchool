@@ -6,7 +6,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 
 namespace MiniSchool
-{
+{//test
 	public class Startup
 	{
 		public Startup(IConfiguration configuration)
